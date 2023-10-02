@@ -1,22 +1,22 @@
 @font-face {
   font-family: font1;
-  src: url(/Fonts/61defec4a021d87f024c11f9_domaine-display-regular-italic.ttf);
+  src: url(Fonts/61defec4a021d87f024c11f9_domaine-display-regular-italic.ttf);
 }
 @font-face {
   font-family: font2;
-  src: url(/Fonts/61defec4a021d8c8284c11f0_AttilaSansUniform-Semibold.ttf);
+  src: url(Fonts/61defec4a021d8c8284c11f0_AttilaSansUniform-Semibold.ttf);
 }
 @font-face {
   font-family: font3;
-  src: url(/Fonts/EJRLQgErUN8XuHNEtX81i9TmEkrnfc9Q962f.ttf);
+  src: url(Fonts/EJRLQgErUN8XuHNEtX81i9TmEkrnfc9Q962f.ttf);
 }
 @font-face {
   font-family: font4;
-  src: url(/Fonts/EJROQgErUN8XuHNEtX81i9TmEkrvoutF.ttf);
+  src: url(Fonts/EJROQgErUN8XuHNEtX81i9TmEkrvoutF.ttf);
 }
 @font-face {
   font-family: font5;
-  src: url(/Fonts/61defec4a021d8defb4c11f5_StabilGrotesk-Regular.ttf);
+  src: url(Fonts/61defec4a021d8defb4c11f5_StabilGrotesk-Regular.ttf);
 }
 * {
   margin: 0%;
