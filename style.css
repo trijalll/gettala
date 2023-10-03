@@ -185,7 +185,7 @@ body {
 .part2__img {
   height: 100%;
   width: 90%;
-  background-image: url(/Assets/img1.png);
+  background-image: url(Assets/img1.png);
   background-size: cover;
   background-position: center;
 }
@@ -377,7 +377,7 @@ body {
 .part6 {
   height: 100vh;
   width: 100%;
-  background-image: url(/Assets/img2.gif);
+  background-image: url(Assets/img2.gif);
   display: flex;
   flex-direction: column;
   gap: 4vw;
